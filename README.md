@@ -6,10 +6,11 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>MY WEBSITE</title>
-        
+        </head>
       <body>
         <p><center> <marquee behavior="inifinite" direction="right" style="color: blue;size: 30px;">WELCOME TO SHARON`S WEBSITE</marquee></center></p>
   <p><h1><button style="background-color: rgb(144, 127, 255);color: rgb(255, 240, 240);height: 50px;width: 100px;">ABOUT ME</button></h1> </p>
+  
   <p>Hi,I`m Sharon-a passionate and driven student currently pursuing  <br>a Bachelor of Science in Computer 
   Science at Kisii <br>University. I`m enthusiastic about using technology to solve <br>real-world problems and love 
 exploringthe latest in software  <br>development, web development and data systems.</p>
@@ -39,6 +40,4 @@ of tech.</p>
   <p>I added my picture to personalize the site and give visitors a visual <br> connection.
   This is me <img src="49551f125375fdbf71c8916ac3ffe92e.png" alt="sharon`s photo"style="width: 200px;boarder-radius:1opx;"> </p>
       </body>
-        
-    </head>
 </html>
